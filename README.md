@@ -56,7 +56,7 @@ ollama run NebulaCode/nebula-code
 | --- | --- | --- |
 | NebulaCode Nano | 0.5B | `ollama run NebulaCode/nebula-code-nano0.5b` |
 | NebulaCode Lite | 3B | `ollama run NebulaCode/nebula-code-lite3b` |
-| NebulaCode | Not specified | `ollama run NebulaCode/nebula-code` |
+| NebulaCode | 30b | `ollama run NebulaCode/nebula-code` |
 
 ## 📦 Requirements
 
