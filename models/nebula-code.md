@@ -1,12 +1,6 @@
 # NebulaCode
 
-NebulaCode is the main model in the NebulaCode catalog.
-
-## At a glance
-
-- **Parameter size:** Unknown; it has not been specified in this repository
-- **Intended use:** Main NebulaCode coding model
-- **Runtime:** Local through Ollama
+NebulaCode is the main model in the NebulaCode family.
 
 ## Run it
 
@@ -16,4 +10,8 @@ Install Ollama, open a terminal, and run:
 ollama run NebulaCode/nebula-code
 ```
 
-Ollama handles downloading and running the model locally. This repository does not host or execute the model.
+This repository is a catalog for model discovery. Ollama downloads and runs the model locally on your machine.
+
+## Best for
+
+> Users who want the primary NebulaCode model.

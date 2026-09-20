@@ -1,14 +1,14 @@
 # Installing Ollama
 
-NebulaCode models run locally through [Ollama](https://ollama.com/). Ollama must be installed before you run any model command in this repository.
+NebulaCode models are designed to run locally through Ollama. Install Ollama before using any command in this repository.
 
 ## 1. Download Ollama
 
-Use the official download page:
+Use the official installer:
 
-[Download Ollama](https://ollama.com/download)
+- [Download Ollama](https://ollama.com/download)
 
-Choose the installer for your operating system and follow the on-screen instructions.
+Choose the version for your operating system and follow the setup steps.
 
 ## 2. Verify the installation
 
@@ -18,11 +18,11 @@ Open a new terminal and run:
 ollama --version
 ```
 
-If your terminal reports that `ollama` cannot be found, restart the terminal after installation. If the command is still unavailable, consult the [official Ollama documentation](https://docs.ollama.com/).
+If the command is not found, restart the terminal or confirm that Ollama was installed correctly.
 
-## 3. Run NebulaCode
+## 3. Run a NebulaCode model
 
-Choose one of the exact commands below:
+Choose one of these exact commands:
 
 ```bash
 ollama run NebulaCode/nebula-code-nano0.5b
@@ -36,8 +36,8 @@ ollama run NebulaCode/nebula-code-lite3b
 ollama run NebulaCode/nebula-code
 ```
 
-On the first run, Ollama may need to download the selected model. Once it starts, type your prompt in the terminal and press **Enter**.
+On the first run, Ollama may download the selected model. Once it starts, you can begin chatting with it in the terminal.
 
-## What this repository does
+## 4. What this repository is
 
-This repository provides documentation and copy-friendly model commands. It does not host or execute the AI models, and it does not provide an application, API, database, or model management interface. Ollama handles the local download and runtime.
+This repository is a catalog and documentation hub for NebulaCode models. It does not host or execute the models itself, and it does not provide a frontend, backend, API, database, or application layer.

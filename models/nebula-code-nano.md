@@ -1,12 +1,6 @@
-# NebulaCode Nano 0.5B
+# NebulaCode Nano
 
-NebulaCode Nano is the very lightweight NebulaCode coding assistant listed in this catalog.
-
-## At a glance
-
-- **Parameter size:** 0.5B, as indicated by the model name
-- **Intended use:** Very lightweight coding assistance
-- **Runtime:** Local through Ollama
+NebulaCode Nano is a very small local model option for users who want the lightest model in the NebulaCode family.
 
 ## Run it
 
@@ -16,4 +10,8 @@ Install Ollama, open a terminal, and run:
 ollama run NebulaCode/nebula-code-nano0.5b
 ```
 
-Ollama handles downloading and running the model locally. This repository does not host or execute the model.
+This repository is a catalog for model discovery. Ollama downloads and runs the model locally on your machine.
+
+## Best for
+
+> Users who want the smallest and simplest local option.
