@@ -156,5 +156,3 @@ No license has been selected for this repository yet. Please check the repositor
 ---
 
 NebulaCode is a simple, local-first model catalog for Ollama. Pick a model, run the command, and start using it.
-
-<img width="915" height="855" alt="image" src="https://github.com/user-attachments/assets/c219e54a-9bb0-400d-8e5b-48fe53a18aa4" />
