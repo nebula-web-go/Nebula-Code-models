@@ -1,4 +1,4 @@
-<img width="1380" height="708" alt="image" src="https://github.com/user-attachments/assets/bef99e32-5ce4-413c-86f8-9aad7da68c52" />
+<img width="1404" height="972" alt="image" src="https://github.com/user-attachments/assets/0878d10c-5616-4499-a037-cab04e2e8cac" />
 
 NebulaCode is a family of local coding models for Ollama. This repository is a simple catalog: choose a model, copy the command, and run it on your machine.
 
