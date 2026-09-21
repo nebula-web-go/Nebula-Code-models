@@ -52,11 +52,13 @@ ollama run NebulaCode/nebula-code
 
 ## 📊 Model Commands
 
-| Model | Size | Command |
-| --- | --- | --- |
-| NebulaCode Nano | 0.5B | `ollama run NebulaCode/nebula-code-nano0.5b` |
-| NebulaCode Lite | 3B | `ollama run NebulaCode/nebula-code-lite3b` |
-| NebulaCode | 30b | `ollama run NebulaCode/nebula-code` |
+| Model | Size | Download size | Command |
+| --- | --- | --- | --- |
+| NebulaCode Nano | 0.5B | 397 MB | `ollama run NebulaCode/nebula-code-nano0.5b` |
+| NebulaCode Lite | 3B | 1.9 GB | `ollama run NebulaCode/nebula-code-lite3b` |
+| NebulaCode | 30B | 18 GB | `ollama run NebulaCode/nebula-code` |
+
+> **Note:** Download sizes are approximate and may vary slightly depending on the Ollama model version and installation environment.
 
 ## 📦 Requirements
 
